@@ -1,0 +1,4 @@
+layout文件夹：布局
+store文件夹：vuex
+setting.js：导出网站基础配置，包括：网站标题、固定header、显示logo
+permissino.js：权限拦截，主要负责路由导航守卫 
